@@ -25,7 +25,7 @@ function getImgUrl() {
 }
 
 // async function pushToArray(listUrl, getUrl) {}
-getImgUrl();
+// getImgUrl();
 // let count = 1;
 // const allImg = $(".img");
 // $("#leftBtn").on("click", function (e) {
