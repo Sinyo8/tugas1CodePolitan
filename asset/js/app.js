@@ -24,14 +24,4 @@ function getImgUrl() {
   });
 }
 
-// async function pushToArray(listUrl, getUrl) {}
-// getImgUrl();
-// let count = 1;
-// const allImg = $(".img");
-// $("#leftBtn").on("click", function (e) {
-//   function counter() {
-
-//   }
-//   counter();
-//   console.log(count);
-// });
+getImgUrl();
